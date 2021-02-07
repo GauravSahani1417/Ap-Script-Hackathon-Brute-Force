@@ -22,4 +22,4 @@
 ### For that particular reason we used Bi-directional LSTM, Which is used for parsing the statements from both the ends, and since sarcasm is a twist of emotions introduced in the same statement, and there comes a need to detect those twist of emotions in statement. Hence we can detect the statement being a Sarcasm! These LSTM's executing from both ends will reach producing a polarity, which will be used to detect the Sarcasm!
 
 ## Our Working Project:
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/63406916/107154888-4dbcd380-699b-11eb-98b0-0537866812e6.gif)
+![Ap-Script-Hackathon-Brute-Force](https://user-images.githubusercontent.com/63406916/107155499-c40f0500-699e-11eb-8b2c-1ff127198fb8.gif)
