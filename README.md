@@ -9,5 +9,6 @@
 ## The problem it solves:
 ### For every New product launched/upgraded/replaced, gains tonnes comments, where these comments act crutial as far as product development is concered. With this growing trend of sarcasm, bots are incompatible to collect real sentiments associated with these comments. This is where our application comes into picture, our application detects these sarcastic comments, which can be later filtered out taking only Genuine comments into consideration. Also with sacrasm detection, our application also deals with extracting sentiments from these comments such as comments being Positive,Neutral or Negative. 
 
-
+## Problems We Faced:
+### The first problem we come across is that, unlike in sentiment analysis where the sentiment categories are very clearly defined (love objectively has a positive sentiment, hate a negative sentiment no matter who you ask or what language you speak), the borders of sarcasm aren’t that well defined. And it is crucial that before starting to detect it, to have a notion of what sarcasm is.
 
