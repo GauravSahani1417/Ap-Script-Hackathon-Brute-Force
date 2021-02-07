@@ -25,5 +25,14 @@
 ### In today’s world, huge online data is generated through various social sites such as Twitter, Youtube, LinkedIn, Facebook and many more. In a democratic world such as ours, many people like to express their thoughts through such online sites. People convey their emotions and perspectives through tweets, e-mails, messages. Many businesses run on such data such as Media Industry, Marketing Industry, Entertainment Industry, Foreign exchange industry. In addition to it, when a new product is launched in the market, the analyzing committee sits to see various reactions and formulate the next business strategy in order to improve the product as well as increase company sales. Hence, thereby avoiding incidents like IndiGo being trolled for its BOT failing to recognize sarcasm by one of its customers which lead to massive trolling. Today, data holds ultimate power. Hence, such raw data obtained from various sites needs to be analysed detecting emotions precisely (happy,sad,angry, sarcasm) in order to smoothly analyze the useful data for detection of emotion portrayed by commenters,reviewers or customers. At times even Humans fail to recognize sarcasm, but using our model we can train any BOT to efficiently detect this complex emotion, sarcasm which is indeed introduced as a twist of emotions. This detection of complex emotion is very beneficial to all upcoming industries in future which revolves around data. This type of analysis can be ground-breaking in the field of NLP. Hence, such online data must be carefully analysed before it is taken into consideration for accurate business decisions leading to better organization’s profits. For such online data, analyzing Natural Language Processing is the best way of interpreting data from reactions that are expressed in human natural language. 
 ### Also, we plan to extend emotion detection (sad,angry,happy and sarcasm) in other regional and international languages such as Spanish,German,Hindi,Marathi,Tamil etc. And we will also be focussing more on every language’s unique slang or spoken local terminologies.
 
+## Team Contributions:
+### Gaurav - Combining the models into pickle and h5 format and ensuring the compatibility of all codes and output models with each other, UI/UX, model selection and Performance Metric selection.
+### Nilesh - UI, Data Collection and Data Analysis, Model selection and performance metric selection.
+### Aishwarya - Sarcasm detection code, Data preprocessing and data cleaning, model selection and performance metric selection.
+### Harsh - Hyper-parameter tuning, documentation and ppt, model selection and performance metric selection.
+### Archish - model preparation, documentation and ppt, ,model selection and performance metric selection.
+
+## Thank you so much!
+
 ## Our Working Project:
 ![Ap-Script-Hackathon-Brute-Force](https://user-images.githubusercontent.com/63406916/107155499-c40f0500-699e-11eb-8b2c-1ff127198fb8.gif)
