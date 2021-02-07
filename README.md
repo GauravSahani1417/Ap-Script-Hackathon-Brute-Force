@@ -1,11 +1,12 @@
 # Team Name: Brute-Force ⚔
-
+---------------------------------------------------------------------
 ## Team Members:
 ### 1. Gaurav Sahani 👨‍💻
 ### 2. Nilesh Verma 👨‍💻
 ### 3. Aishwarya Muchandi 👩‍💻
 ### 4. Harsh Parikh 👨‍💻
 ### 5. Archish Koshe 👨‍💻
+---------------------------------------------------------------------
 
 # Project Name: Sarcasm and Sentiment Detection 😀😐
 ## Overview:
