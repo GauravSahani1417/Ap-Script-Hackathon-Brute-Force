@@ -21,3 +21,5 @@
 ### The first problem we come across is that, unlike in sentiment analysis where the sentiment categories are very clearly defined (love objectively has a positive sentiment, hate a negative sentiment no matter who you ask or what language you speak), the borders of sarcasm aren’t that well defined. And it is crucial that before starting to detect it, to have a notion of what sarcasm is. 
 ### For that particular reason we used Bi-directional LSTM, Which is used for parsing the statements from both the ends, and since sarcasm is a twist of emotions introduced in the same statement, and there comes a need to detect those twist of emotions in statement. Hence we can detect the statement being a Sarcasm! These LSTM's executing from both ends will reach producing a polarity, which will be used to detect the Sarcasm!
 
+## Our Working Project:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63406916/107154888-4dbcd380-699b-11eb-98b0-0537866812e6.gif)
